@@ -1,38 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:E8B26A&height=210&section=header&text=Welcome%20to%20Aditya's%20GitHub&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=%3C%2F%3E&descAlignY=62&descSize=22&descColor=FFFFFF" width="100%"/>
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aditya-d-aa4635411/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/iaditya_offical"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://github.com/adityaduggiralaonein-dot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://pin.it/2TlqlBr1t"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+# Aditya Duggirala
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=E8B26A&center=true&vCenter=true&width=550&lines=AI+%26+Full-Stack+Builder;Hackathon+Winner+%F0%9F%8F%86;Shipping+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E11D48&center=true&vCenter=true&width=560&height=40&lines=One-person+studio.+AI+as+co-founders.;Blank+repo+%E2%86%92+live+product%2C+usually+in+one+night.;Idea+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Repeat.)](https://git.io/typing-svg)
+
+📍 Hyderabad, India · 🌙 Night-shift builder · 🚀 8 products live
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.duggirala@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=adityalenova&color=E11D48&style=for-the-badge&label=VISITORS)
 
 </div>
 
 <br/>
 
-## 📌 About Me
-
 <table>
 <tr>
-<td width="60%" valign="top">
+<td valign="top">
 
-Hello there! I'm **Aditya Duggirala**, an Electronics & Communication Engineering student at VNR Vignana Jyothi Institute of Engineering and Technology. I'm learning fast and turning that learning into shipped products — mostly AI apps built solo, from idea to live link in a weekend.
+### 👋 The short story
 
-- 🎓 Studying ECE at **VNRVJIET**, Hyderabad
-- 🚀 Solo-building full-stack AI apps with **React**, **Claude API** and **Lovable.dev**
-- 🏆 **1st Place — Agent Arena**, CONVERGENCE 2k26 (VNRVJIET's 27th National Symposium)
-- 🎖️ Participant, **SimuSolve Challenge**, CONVERGENCE 2k26
-- 🩺 Building **Nirogi AI**, a free 12-tool preventive healthcare platform for India
-- 🚔 Built **Spectre**, an AI crime-analytics dashboard for the Karnataka State Police
-- 💪 Currently building **BeyondHuman**, an AI fitness & health coach
+I build AI products solo — Claude, Gemini and GPT are my co-founders.
+No team, no deck, no vaporware: just repos that turn into live apps
+strangers actually use.
+
+> *The demo **is** the document.*
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=2C5364&vCenter=true&multiline=true&width=260&height=140&lines=%22Ship+fast.%22;%22Learn+faster.%22;%22Build+for+real+people.%22" alt="Quote"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="typing on a glowing keyboard in the dark" />
 
 </td>
 </tr>
@@ -40,79 +38,62 @@ Hello there! I'm **Aditya Duggirala**, an Electronics & Communication Engineerin
 
 ---
 
-## 🛠️ Technologies
+### 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,supabase,postgres&theme=light&perline=10"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="42" title="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" title="TypeScript" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="42" title="Next.js" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="42" title="Tailwind" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="42" title="Node.js" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" width="42" title="Supabase" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="42" title="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="42" title="Vercel" />
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E4DB6?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+### 📦 Shipped, not scrapped
+
+| | Product | What it is | Live |
+|:--:|---|---|:--:|
+| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12 free AI health tools for India | ✅ |
+| 🚔 | [**Spectre**](https://spectre-crimeai.lovable.app) | Crime-pattern intelligence — police datathon build | ✅ |
+| 🛒 | [**HyperMart**](https://hypermart.lovable.app) | Storefront where the AI knows the inventory | ✅ |
+| 🎵 | [**RemixMusicAI**](https://remixmusicai.lovable.app) | AI music remixing, right in the browser | ✅ |
+| 🎨 | [**DaVinci Canvas AI**](https://davinci-canvasai.lovable.app) | Image-generation canvas for non-artists | ✅ |
+| ⚡ | [**Static**](https://static-chargepoint.lovable.app) | EV & fuel road-trip planner with real charger maps | ✅ |
+| 🐞 | [**Bettle**](https://bettle-creativeai.lovable.app) | Reconnect with school, college & old work | ✅ |
+| 💪 | [**BeyondHuman**](https://beyondhuman-healthai.lovable.app) | AI fitness coach that treats training like science | 🔨 |
+
+---
+
+### 📊 The receipts
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityalenova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=E11D48&ring_color=E11D48&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityalenova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E11D48&card_width=380" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lovable.dev-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://streak-stats.demolab.com?user=adityalenova&theme=tokyonight&hide_border=true&background=0d1117&ring=E11D48&fire=E11D48" />
 
 </div>
 
 ---
 
-## 📊 Statistics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+### 💬 Let's build something
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true"/>
+*"The sun sets. The commits keep coming."*
 
-<br/>
-
-**Contribution Graph**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaduggiralaonein-dot&theme=tokyo-night&hide_border=true&area=true"/>
+[![Follow](https://img.shields.io/github/followers/adityalenova?style=for-the-badge&label=Follow%20for%20night%20builds&color=E11D48&logo=github)](https://github.com/adityalenova?followers=1)
 
 </div>
-
----
-
-## 🚀 Live Projects
-
-| | Project | Description | Status |
-|:---:|---|---|:---:|
-| 💪 | **[BeyondHuman](https://beyondhuman-healthai.lovable.app)** | AI fitness & health coaching platform | 🔨 Building |
-| 🏥 | **[Nirogi AI](https://nirogi-healthai.lovable.app)** | 12-tool preventive healthcare platform for India | ✅ Live |
-| 🚔 | **[Spectre](https://spectre-crimeai.lovable.app)** | AI crime analytics — KSP Datathon 2026 | ✅ Live |
-| 🛒 | **[HyperMart](https://hypermart.lovable.app)** | AI-powered ecommerce platform | ✅ Live |
-| 🎵 | **[RemixMusicAI](https://remixmusicai.lovable.app)** | AI music generation & remixing studio | ✅ Live |
-| 🎨 | **[DaVinci Canvas AI](https://davinci-canvasai.lovable.app)** | AI image generation & creative canvas | ✅ Live |
-| ⚡ | **[Static](https://static-chargepoint.lovable.app)** | India EV & fuel trip planner | ✅ Live |
-| 🐞 | **[Bettle](https://bettle-creativeai.lovable.app)** | Social reconnect — schools, colleges, workplaces | ✅ Live |
-
----
-
-## 📜 Certificates
-
-<div align="center">
-
-**🥇 1st Place — Agent Arena** · CONVERGENCE 2k26
-
-<img src="./certificate-agentarena.jpg" width="650" alt="Agent Arena — 1st Place Certificate"/>
-
-<br/><br/>
-
-**🎖️ Participant — SimuSolve Challenge** · CONVERGENCE 2k26
-
-<img src="./certificate-simusolve.png" width="650" alt="SimuSolve Challenge — Certificate of Participation"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=adityaduggiralaonein-dot&label=Profile+Views&color=E8B26A&style=flat-square"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8B26A,50:2C5364,100:0F2027&height=110&section=footer" width="100%"/>
