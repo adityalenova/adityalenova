@@ -1,235 +1,187 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=ADITYA%20DUGGIRALA&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BUILDING%20IN%20THE%20OPEN%20%E2%80%94%20ONE%20REPO%20AT%20A%20TIME&descAlignY=58&descSize=17&descColor=FFFFFF" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=FFFFFF&vCenter=true&center=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;LOCATION%3A+HYDERABAD%2C+IN;STATUS%3A+BUILDING;MODE%3A+PROTOTYPE+%E2%86%92+DEPLOY+%E2%86%92+ITERATE" alt="Typing SVG"/>
+<a href="#-transmission">transmission</a> · <a href="#-the-arsenal">arsenal</a> · <a href="#-shipped-not-scrapped">shipped</a> · <a href="#-night-log">night log</a> · <a href="#-public-record">record</a> · <a href="#-open-a-channel">channel</a>
+
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aditya-d-aa4635411/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000"/></a>
-<a href="https://x.com/iaditya_offical"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000"/></a>
-<a href="mailto:aditya.duggirala@gmail.com"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000"/></a>
-<a href="https://github.com/adityalenova/genesis"><img src="https://img.shields.io/badge/GENESIS-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000"/></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityalenova/adityalenova/HEAD/assets/lenova-hero.svg" width="100%" alt="Aditya Duggirala — dot-matrix figure of drifting particles above a four-node loop: ideate, build, ship, repeat" />
+</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-9ca3af?style=flat-square&logo=linkedin&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)](https://www.linkedin.com/in/aditya-d-aa4635411/)
+[![X](https://img.shields.io/badge/x-9ca3af?style=flat-square&logo=x&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)](https://x.com/iaditya_offical)
+[![Mail](https://img.shields.io/badge/mail-9ca3af?style=flat-square&logo=gmail&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)](mailto:aditya.duggirala@gmail.com)
+[![Follow](https://img.shields.io/github/followers/adityalenova?style=flat-square&label=follow&logo=github&logoColor=e11d48&labelColor=0a0a0a&color=161b22)](https://github.com/adityalenova?followers=1)
+![Visits](https://komarev.com/ghpvc/?username=adityalenova&label=visits&color=161b22&labelColor=0a0a0a&style=flat-square)
+
+</div>
+
+---
+
+<a id="-transmission"></a>
+
+## ▮ TRANSMISSION
+
+```json
+{
+  "name"      : "Aditya Duggirala",
+  "frequency" : "night-shift · Hyderabad, IN",
+  "purpose"   : "one-person studio shipping AI products before sunrise",
+  "method"    : "idea → build → ship → let strangers break it → repeat",
+  "rule_01"   : "no vaporware. if it can't take a real user, it doesn't get a repo.",
+  "rule_02"   : "the demo is the document.",
+  "status"    : "building — always"
+}
+```
+
+> This profile is the workshop, not the showroom.
+> Rough edges, real commits, and products that made it into strangers' hands.
+
+---
+
+<a id="-the-arsenal"></a>
+
+## ▮ THE ARSENAL
+
+<div align="center">
+
+**build**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-9ca3af?style=flat-square&logo=typescript&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![React](https://img.shields.io/badge/React-9ca3af?style=flat-square&logo=react&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![Next.js](https://img.shields.io/badge/Next.js-9ca3af?style=flat-square&logo=nextdotjs&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![Tailwind](https://img.shields.io/badge/Tailwind-9ca3af?style=flat-square&logo=tailwindcss&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![Vite](https://img.shields.io/badge/Vite-9ca3af?style=flat-square&logo=vite&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+
+**run**
+
+![Node.js](https://img.shields.io/badge/Node.js-9ca3af?style=flat-square&logo=nodedotjs&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![Supabase](https://img.shields.io/badge/Supabase-9ca3af?style=flat-square&logo=supabase&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9ca3af?style=flat-square&logo=postgresql&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![Vercel](https://img.shields.io/badge/Vercel-9ca3af?style=flat-square&logo=vercel&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+
+**think with**
+
+![Claude](https://img.shields.io/badge/Claude-e11d48?style=flat-square&logo=anthropic&logoColor=e11d48&labelColor=0a0a0a&color=161b22)
+![Gemini](https://img.shields.io/badge/Gemini-9ca3af?style=flat-square&logo=googlegemini&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![GPT](https://img.shields.io/badge/GPT-9ca3af?style=flat-square&logo=openai&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)
+![Lovable](https://img.shields.io/badge/Lovable-9ca3af?style=flat-square&labelColor=0a0a0a&color=161b22)
+
+</div>
+
+---
+
+<a id="-shipped-not-scrapped"></a>
+
+## ▮ SHIPPED, NOT SCRAPPED
+
+<details open>
+<summary><b>health &amp; civic — software with a pulse</b></summary>
+<br/>
+
+| build | the one-line truth | try it |
+|---|---|---|
+| **Nirogi AI** | twelve AI health tools, free, built for India's kitchen-table questions | [→](https://nirogi-healthai.lovable.app) |
+| **Spectre** | crime-pattern intelligence, built for a state-police datathon | [→](https://spectre-crimeai.lovable.app) |
+| **BeyondHuman** | an AI coach that treats fitness like a daily practice — *in the forge* | [→](https://beyondhuman-healthai.lovable.app) |
+
+</details>
+
+<details>
+<summary><b>commerce &amp; craft — fun, shipped seriously</b></summary>
+<br/>
+
+| build | the one-line truth | try it |
+|---|---|---|
+| **HyperMart** | a storefront where the AI actually knows the inventory | [→](https://hypermart.lovable.app) |
+| **RemixMusicAI** | remix a track in the browser without touching a DAW | [→](https://remixmusicai.lovable.app) |
+| **DaVinci Canvas AI** | a generation canvas for people who can't draw | [→](https://davinci-canvasai.lovable.app) |
+
+</details>
+
+<details>
+<summary><b>mobility &amp; memory — apps for the in-between</b></summary>
+<br/>
+
+| build | the one-line truth | try it |
+|---|---|---|
+| **Static** | road-trip planning that knows where the chargers actually are | [→](https://static-chargepoint.lovable.app) |
+| **Bettle** | reconnect with the classrooms and offices that made you | [→](https://bettle-creativeai.lovable.app) |
+
+</details>
+
+---
+
+<a id="-night-log"></a>
+
+## ▮ NIGHT LOG
+
+```
+[22:00]  an idea annoys me
+[22:05]  git init && git commit -m "it begins"
+[02:30]  two keyboards, one brain — AI pair-programming
+[05:00]  deployed. ugly, but REAL
+[09:00]  a stranger uses it
+[09:01]  a stranger finds three bugs
+[12:00]  v2 ships
+[--:--]  repeat
+```
+
+---
+
+<a id="-public-record"></a>
+
+## ▮ PUBLIC RECORD
+
+<div align="center">
+
+<img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityalenova&show_icons=true&hide_border=true&bg_color=0a0a0a&border_color=15181c&title_color=eef1f4&text_color=9ca3af&icon_color=6b7280&ring_color=e11d48&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityalenova&layout=compact&hide_border=true&bg_color=0a0a0a&border_color=15181c&title_color=eef1f4&text_color=9ca3af&card_width=375" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adityalenova&label=TERMINAL+VISITS&color=000000&style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/github/followers/adityalenova?style=for-the-badge&color=000000&labelColor=000000&label=FOLLOWERS"/>
-
-</div>
-
-<br/>
-
-```
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-```
-
-`[ 01 // ABOUT ]`
-
-## **THE PERSON BEHIND THE COMMITS**
-
-I'm an **ECE undergrad at VNR Vignana Jyothi Institute of Engineering and Technology** who'd rather ship a rough product tonight than plan a perfect one for next month. Most of what lives in my repos was built **solo** — one prompt, one deploy, one stranger's bug report at a time. I route between **Claude, GPT and Gemini** depending on the job, then trust nothing until it's run in a sandbox.
-
-```
-— ROLE        : SOLO AI BUILDER / ECE UNDERGRAD, VNRVJIET
-— MODE        : PROTOTYPE → DEPLOY → LISTEN → ITERATE
-— STACK       : REACT · TYPESCRIPT · SUPABASE · CLAUDE API
-— CURRENTLY   : BEYONDHUMAN — AI FITNESS & HEALTH COACH
-— RULE        : DEMO BEATS DECK
-```
-
-<br/>
-
-<div align="center">
-
-`[ LIVE FEED · UPTIME SINCE FIRST COMMIT ]`
-
-```
-[ 22:00 ]  an idea won't leave me alone
-[ 22:05 ]  repo created  →  git commit -m "it begins"
-[ 02:30 ]  AI pair-programming, two models, one brain
-[ 05:00 ]  deployed — rough, but real
-[ 09:00 ]  first stranger opens the link
-[ 09:01 ]  three bugs found within a minute
-[ 12:00 ]  v2 ships. cycle repeats.
-```
-
-</div>
-
-<br/>
-
-```
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-```
-
-`[ 02 // FLAGSHIP ]`
-
-## **GENESIS — A RESEARCH LOOP THAT NEVER FILES ITSELF AWAY**
-
-An always-on research engine: it pulls context from prior runs and live literature, routes the next step to the model built for that job, executes it, and logs the full exchange. **Nothing gets marked resolved** until the evidence is checked and a human signs off.
-
-```
-— CONTEXT     : RETRIEVAL-GROUNDED, PULLED FROM PRIOR RUNS
-— ROUTING     : LITERATURE → GEMINI  ·  CODE / MATH → OPENAI + SANDBOX
-— EVIDENCE    : NO CLAIM WITHOUT A LOGGED CITATION
-— REVIEW GATE : AN AGENT CAN NEVER CLOSE OUT ITS OWN WORK
-— OUTPUT      : FIGURES DRAWN BY THE EXECUTED CODE, NOT DESCRIBED BY IT
-```
-
-<div align="center">
-
-**[ [ genesis → ](https://github.com/adityalenova/genesis) ]**
-
-</div>
-
-<br/>
-
-```
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-```
-
-`[ 03 // SHIPPED ]`
-
-## **THINGS BUILT AND LEFT RUNNING**
-
-```
-🛍️  COMMERCE & CREATIVITY
-```
-
-| build | the one-line truth | link |
-|---|---|:---:|
-| **HyperMart** | A storefront the AI actually knows the inventory of | [open →](https://hypermart.lovable.app) |
-| **RemixMusicAI** | Remix a track in the browser, no DAW required | [open →](https://remixmusicai.lovable.app) |
-| **DaVinci Canvas AI** | A generation canvas for people who can't draw | [open →](https://davinci-canvasai.lovable.app) |
-
-```
-🏥  HEALTH & CIVIC
-```
-
-| build | the one-line truth | link |
-|---|---|:---:|
-| **Nirogi AI** | 12 free preventive-care AI tools, built for every Indian | [open →](https://nirogi-healthai.lovable.app) |
-| **Spectre** | Crime-pattern analytics, built for the Karnataka State Police | [open →](https://spectre-crimeai.lovable.app) |
-| **BeyondHuman** | AI fitness & health coach — currently in the oven | 🔨 building |
-
-```
-🗺️  MOBILITY & MEMORY
-```
-
-| build | the one-line truth | link |
-|---|---|:---:|
-| **Static** | Multi-stop EV & fuel route planning across India | [open →](https://static-chargepoint.lovable.app) |
-| **Bettle** | Reconnects you with the schools, colleges & jobs that shaped you | [open →](https://bettle-creativeai.lovable.app) |
-
-<br/>
-
-```
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-```
-
-`[ 04 // STACK ]`
-
-## **THE TOOLCHAIN**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nodejs,supabase,postgres,figma,git&theme=dark&perline=10"/>
+<img src="https://streak-stats.demolab.com?user=adityalenova&hide_border=true&background=0a0a0a&border=15181c&stroke=30363d&ring=e11d48&fire=eef1f4&currStreakNum=eef1f4&sideNums=9ca3af&currStreakLabel=9ca3af&sideLabels=6b7280&dates=4b5563" alt="streak" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CLAUDE_API-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=000000"/>
-<img src="https://img.shields.io/badge/GEMINI-000000?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF&labelColor=000000"/>
-<img src="https://img.shields.io/badge/OPENAI-000000?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=000000"/>
-<img src="https://img.shields.io/badge/LOVABLE.DEV-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=000000"/>
-
-</div>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=adityalenova&theme=darkhub&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-```
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-```
+<picture>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/adityalenova/adityalenova/output/github-snake-dark.svg" width="100%" />
+</picture>
 
-`[ 05 // RECEIPTS ]`
+<br/>
 
-## **THE NUMBERS**
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=adityalenova&hide_border=true&bg_color=0a0a0a&color=9ca3af&line=eef1f4&point=e11d48&area=true&area_color=161b22)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<a id="-open-a-channel"></a>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityalenova&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityalenova&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" height="165"/>
+## ▮ OPEN A CHANNEL
 
-<img src="https://streak-stats.demolab.com?user=adityalenova&theme=github-dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+> *"The sun sets. The commits keep coming."*
 
-<br/><br/>
-
-**`[ TROPHY CASE ]`**
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityalenova&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-<br/>
-
-**`[ ACTIVITY GRAPH ]`**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityalenova&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF"/>
-
-<br/>
-
-**`[ CONTRIBUTION SNAKE ]`**
-
-<img src="https://raw.githubusercontent.com/adityalenova/adityalenova/output/github-snake-dark.svg" width="100%"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/DM_on_linkedin-9ca3af?style=flat-square&logo=linkedin&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)](https://www.linkedin.com/in/aditya-d-aa4635411/)
+[![X](https://img.shields.io/badge/follow_on_x-9ca3af?style=flat-square&logo=x&logoColor=9ca3af&labelColor=0a0a0a&color=161b22)](https://x.com/iaditya_offical)
+[![Mail](https://img.shields.io/badge/business_inquiries-e11d48?style=flat-square&logo=gmail&logoColor=e11d48&labelColor=0a0a0a&color=161b22)](mailto:aditya.duggirala@gmail.com)
 
 <br/>
 
 ```
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-```
-
-`[ 06 // CERTIFICATES ]`
-
-## **PROOF OF WORK**
-
-<div align="center">
-
-**🥇 1st Place — Agent Arena**
-CONVERGENCE 2k26 · VNRVJIET's 27th National Level Annual Technical Symposium · 18–19 Sept 2026
-
-<img src="./certificate-agentarena.jpg" width="700" alt="Agent Arena — 1st Place Certificate"/>
-
-<br/><br/>
-
-**🎖️ Participant — SimuSolve Challenge**
-CONVERGENCE 2k26 · VNRVJIET's 27th National Level Annual Technical Symposium · 18–19 Sept 2026
-
-<img src="./certificate-simusolve.png" width="700" alt="SimuSolve Challenge — Certificate of Participation"/>
-
-</div>
-
-<br/>
-
-```
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-```
-
-`[ 07 // TRANSMISSION ]`
-
-<div align="center">
-
-### **END TRANSMISSION — OR START A CONVERSATION**
-
-*"Ship fast. Learn faster. Verify everything."*
-*"The sun sets. The commits keep coming."*
-
-<a href="https://www.linkedin.com/in/aditya-d-aa4635411/"><img src="https://img.shields.io/badge/CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000"/></a>
-<a href="https://x.com/iaditya_offical"><img src="https://img.shields.io/badge/FOLLOW-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000"/></a>
-<a href="mailto:aditya.duggirala@gmail.com"><img src="https://img.shields.io/badge/WRITE-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000"/></a>
-
-```
-[ exit 0 ] ▮
+[exit 0] ▮
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%"/>
