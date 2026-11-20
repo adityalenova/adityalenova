@@ -1,4 +1,3 @@
-[![Contribo Readiness](https://contribo-one.vercel.app/api/passport/adityaduggirla/badge.svg)](https://contribo-one.vercel.app/passport/adityaduggirla)
 
 <div align="center">
 
